@@ -1,0 +1,33 @@
+.bodyEducation {
+    padding-top: 96px;
+    padding-bottom: 66px;
+    overflow: hidden;
+    display: flex;
+    background-color: #edf5e1 !important;
+}
+
+.h1Education {
+    text-decoration: underline;
+    padding-left: 10%;
+    font: 22px/30px 'opensans-bold', sans-serif;
+    color: #c38d9e;
+}
+
+.contantEducation {
+    margin-left: 10%;
+}
+
+.h3Education {
+    font: 18px/24px 'opensans-bold', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.iconEducation {
+    margin-right: 2%;
+    color: #41b3a3;
+}
+
+.paragarphEducation {
+    padding-left: 5%;
+}

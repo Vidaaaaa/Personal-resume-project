@@ -1,0 +1,22 @@
+.bodyFooter{
+    background: #edf5e1;
+   
+}
+.ul1Footer{
+    padding-top: 3%;
+    text-align: center;
+    color: black;
+}
+.ul2Footer{
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    text-align: center;
+    color: #000;
+}
+.iconFooter {
+    margin-left: 20px;
+    color: #112cc7;
+}
+.iconFooter > a > svg:hover {
+    color: black;
+  }

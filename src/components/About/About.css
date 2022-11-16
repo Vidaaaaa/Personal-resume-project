@@ -1,0 +1,45 @@
+.cardAbout {
+    background-color: rgb(235, 235, 235) !important;
+    padding-top: 96px;
+    padding-bottom: 66px;
+    display: flex;
+}
+
+.imgAbout {
+    margin-left: 250px;
+    position: relative;
+    width: 120px;
+    height: 120px;
+    border-radius: 100%;
+}
+
+.contantAbout {
+    margin-left: 10%;
+}
+
+.h1About {
+    font: 22px/30px 'opensans-bold', sans-serif;
+    margin-bottom: 12px;
+    color: #c38d9e;
+}
+
+.paragraphAbout {
+    line-height: 30px;
+    color: #7A7A7A;
+}
+
+.ratingAbout {
+    float: right;
+    padding-top: -20%;
+    padding-right: 20%;
+    margin-top: 8%;
+}
+.info {
+    
+    margin-top: 8%;
+}
+
+.iconAbout {
+    margin-right: .5%;
+    color: #c38d9e;
+}
